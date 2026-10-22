@@ -1,1021 +1,1041 @@
 {
   "id": "hardcore-re-263",
   "name": "HARDCORE RE 26.3",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "minecraft": "26.3",
   "modloader": "fabric",
   "modloaderVersion": "0.20.0",
-  "filesZip": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip",
+  "filesZip": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip",
   "files": [
     {
       "path": "mods/animatica-0.6.2+26.3.jar",
       "sha256": "c7df115a20895fe121009937bf0a1d3b8704ea6a5bfc38160f7e50552592d53c",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/appleskin-fabric-mc26.3-3.0.10.jar",
       "sha256": "cb05087c39f0d860611aa1fae7cf63560214d1b71378a7c903c18dc370b5c3ce",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/bbe-fabric-1.3.9+mc26.3-mod.jar",
       "sha256": "03e0a5e60b6ea16d740f5b1f1f61e6226240a99eaf0993cac2d0d0427d00ea6d",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/BetterGrassify-1.8.8+fabric.26.3.jar",
       "sha256": "eb88628b69aaa5029667cab63deb46a5149fb693901b2cf269edefb3d2a05c2a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/bettermounthud-1.3.1.jar",
       "sha256": "3d4f56c46e61e86ecd5f411809a01af7c40b25aead6791b716befcf33e1e3336",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/cape-provider-5.6.2.jar",
       "sha256": "d9916ea44154f2413ab475a0cedb13c66ecada4fe6ba7fa2aa209db84b0a7aef",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/cloth-config-fabric-26.3.159.jar",
       "sha256": "1716b9964f90d2b885f9bd3887f8824b71b55c32a4123a5853486e722f7c2e4b",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/ConfigManager-fabric-26.1_26.2-1.1.3.jar",
       "sha256": "59fd62349541d3bccbf5634163015cf335bd272da9b1729649dd2fdb3809bb25",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/continuity-3.0.1+26.3.jar",
       "sha256": "429fb0946118e86cce8ace8b57d07e1971088fb3f8115439bb0f2f12df14f511",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/controlify-3.5.3+mc26.3-universal.jar",
       "sha256": "bc759f557d122079bb9078741065935bf3aa9bfd5e60b414e242633c0dded86a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/CrashAssistant-fabric-26.2-26.3-1.11.14.jar",
       "sha256": "dd76ebfebbcc3d9457c7b7a37509ef5aeb0d69edc323060a8fc7c31b8d6f97dd",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/debugify-26.3.0.0.jar",
       "sha256": "88c86804997207a6438782fe4d42467cc797bec7de6e6a051cf8e2026a828f63",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar",
       "sha256": "a186d7cdfa3738935cb8425026d118013916fdcfbc060e4397d22368d0bb6594",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/e4mc-fabric-6.2.3-modern.jar",
       "sha256": "50125e336c383688403e2fb24c5d88af82cd4b64288359ea5323288afe258f95",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/entityculling-fabric-1.11.3-mc26.3.jar",
       "sha256": "d2f80514ee3382b1fa7afda4df762df50743226e3cd320b829ee507357aeafbc",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/entity_model_features-3.3.11-26.3-fabric.jar",
       "sha256": "a73ce8463f8ae342cd9428e0b9298bb2d265083d732703cfc12f8f2ef335e3c1",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/entity_texture_features-7.2.5-26.3-fabric.jar",
       "sha256": "22c72cb53e97779b1fea82741fa7932e2b43e44dc3b7c21c772affe46568a56d",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/fabric-api-0.162.0+26.3.jar",
       "sha256": "8626c189b702f466800b1c8ddac6203cf8a1e0bdaee75a5f9a33b18c2baa81b1",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
       "sha256": "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/fancymenu_fabric_3.9.14_MC_26.3.jar",
       "sha256": "c386fb2a6e6bc315f87f1368ef9b991abccf7bf2b8269fbc7865181e4236c424",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/fastquit-3.1.5+mc26.2.jar",
       "sha256": "f18490dfd6c52f9abf4cbf06e0228269425acb42a8b75dd29cd26c574aac47a4",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/ferritecore-9.0.0-fabric.jar",
       "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
       "sha256": "95cc2bd7a943f910a54baf2f65acde301dcfb3d8aeff2c989c04c416d5a4a1cd",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/hardcoreinf-1.0.0-26_3.jar",
-      "sha256": "6dbca7f94e705d35ae061c65811db0e54632b6ddaa7647bd22207a65da26915e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "sha256": "027f8eda6989260a75aaca98c7b1ed8baa9d4300bb9d145fe6de125ac172d244",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar",
       "sha256": "4b346661cd0811d98a6df8c9faeb8fafd9326ab88248430e8bec845ef1ff6dca",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/iris-fabric-1.11.7+mc26.3.jar",
       "sha256": "83ab4d3013dd56ac05ae503a2f596968911001c4ef3d82c59c5c79e64c34dd98",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/Ixeris-4.6.8+26.3-fabric.jar",
       "sha256": "967cb35161f7cb8bcd48f147624f3e7de4c53c43308fe8c73c789af747124bdc",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/konkrete_fabric_1.11.1_MC_26.3.jar",
       "sha256": "5c5e4da4088929ab72859db7dfef88ee5f34e72d0d9322e59f33757a089a773e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/lambdynamiclights-4.13.0+26.3.jar",
       "sha256": "b7550288423affed86370acd80d064876d7e256f5489461b7ff7941627552ab2",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/language-reload-1.7.8+26.3.jar",
       "sha256": "b40ae2cc0e06f222ef30ef3d3d9fb54d31c6ab137d650c3734609c4317b98986",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/lithium-fabric-0.26.2+mc26.3.jar",
       "sha256": "0be5b17ef9f6e9244cd07b24b227553a73aec0cf93158cf28099f3094c167f1b",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/main-menu-credits-1.4.0+26.2-universal.jar",
       "sha256": "56964c1535bd9ae883637d6afa96b8afc30dc5df120de3fed5d0d4a2ad1e92f7",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/melody_fabric_1.0.17_MC_26.3.jar",
       "sha256": "c889a455aad7a6bcdc2fabfc690fcf87659f4ae64b4b9fd7a8705b4bdb313c67",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/mixintrace-1.0-26.1-universal.jar",
       "sha256": "63aa32aebc9bc83585a52559370aaa0274cf5994d3e4aefd705eabe76146d2fa",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/modernfix-5.27.20-build.2.jar",
       "sha256": "f340fff04132ae9b60eae494d2de4cd177d436da8c0e525d6bd8f5b15ed141b5",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/modmenu-21.0.0.jar",
       "sha256": "837812c6c98d66141db7b5dcae668f27fb78d557e8f4c0c89912985fc26a5e6f",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/morechathistory-2.0.0.jar",
       "sha256": "5a98a8c5b5ab9f6e34393ea62ba462e17c696d4319fdeeaf98f516e11afc3587",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/moreculling-fabric-26.3-1.9.0.jar",
       "sha256": "4739cf1bba326d538247b565a0200f926b2c56bf0e1106495335eec4d8528b0c",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/NoChatReports-FABRIC-26.3-v2.21.0.jar",
       "sha256": "d346391bea7991ba5d5eb3c8308a414bfc6734d6d220bece84e76966c834b5bf",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/notenoughanimations-fabric-1.12.6-mc26.3.jar",
       "sha256": "81539e3bb8d222ae3ed3046677ffe466dd6898ec2b75b78f8eb26cb1a43be0c8",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/optigui-2.3.0-beta.10+26.3.jar",
       "sha256": "b17d3f5d5c7659f06b9818dbc21af8295798fe29221f609b1c979407050e00ab",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/pickupnotifications-fabric-3.0.1+26.3.jar",
       "sha256": "a7f428b23461033faa122f2da3146d37bb79c45150a3e80225c0a066074f181a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/placeholder-api-3.1.0-beta.1+26.2.jar",
       "sha256": "c2ca2b5c397a0c198a32e7af68d2d0a011bc2c7baeae5cffd3996efd65c5069e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/polytone-26.3-6.8.6-fabric.jar",
       "sha256": "ae7252f16e58e0537285d4c9209afd2baf1386934a5f19f783424d82c6f11979",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/puzzle-fabric-2.3.1+26.3.jar",
       "sha256": "669c4db0b448d6a9f4075d690311f9b5e8ec4ef41410a35c2c524af61a6f34e6",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/reeses-sodium-options-fabric-2.2.5+mc26.3.jar",
       "sha256": "b692acb0f84d7477deae48e2ba0908e1913c0d87db53daa4d23cbe646e9028f0",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/renice-shot-1.2.1+mc26.3.jar",
       "sha256": "4d6fc56837872dded80a95197fd23158291807d4e62b59d6d33c80b4cba68bbb",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/rrls-5.2.8+mc.26.3.jar",
       "sha256": "ab0fda8a8421da7dce8921da30d4dd634a9863b25d99fde5488270e57b95d572",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/skyboxify-3.4+26.3-fabric.jar",
       "sha256": "0b29f9ee0a18a9ae441cd666746937b91e2f2f28b090ec7dad041c719304762c",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/sodium-extra-fabric-0.9.4+mc26.3.jar",
       "sha256": "fb0a24fa4d46f3669b827e73b7f33be8b48821fdca3dea3d283022330bf6a874",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
       "sha256": "87a5bb39f7e6e41106e77f122f82fc93f9d3bc0b6ebcb746b314172a446a287a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/sodium-shadowy-path-blocks-fabric-8.0.0.jar",
       "sha256": "5033e2873cf718a2667903c0b8dfcd6895776b5d12e7a3cfd228f4d5193a74d6",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/vmp-fabric-mc26.3-0.2.0+beta.7.238-all.jar",
       "sha256": "cd36d2943458042e7be1d1ac04e50c2275a01a713ca891bd45294e9225689a0a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
       "sha256": "c52d41d444522d9abba994cd4c4ee2e71a065d7c31010f92a9959b80ccb4b0f5",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "mods/zoomify-2.17.0+mc26.3-universal.jar",
       "sha256": "134edcc2992d2f6c3793746101dec1aba3ef02f046024fd280afb09094593027",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/.puzzle_cache/mojangstudios.png",
       "sha256": "27d2a588a33e94aff8cea4ea6090509ab3e10640f980e63dfd317c6b0dcd30df",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/appleskin.json5",
       "sha256": "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/BBEConfig.json",
       "sha256": "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/bettergrass.json",
       "sha256": "d31f4687470a8f72af9c519a3f168e29f38e5b5450808ba2bb7f344dd53fede5",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/cape-provider/config.json",
       "sha256": "2d2a5ee86f8b103727eed107a13716d82494cb1bf08d1a8aec4efde4d9366bf1",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/continuity.json",
       "sha256": "28eaff624c99a24e49882e5f56496a9e0f55e9a25e583e9313b0360494810b65",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/controlify/controlify.json",
       "sha256": "59e2fa57cf1d579bd5cf3c8fac48ec0ca623412970ff2250011526e09e2c06fd",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/controlify/profile-1.json",
       "sha256": "f3051cdad72a13e4e191fe133f768c588e07a8637e11954b9541f12f0c54a81a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/config.toml",
       "sha256": "259996eba4dcc6a2e56d5c9ef6169b2f1fb148345ad094a07ee850ee3c7aae77",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/be_by.json",
       "sha256": "db87c9322336f3ef307fee2ba2773bb4cda4fc91177efc83748463e5292870c3",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/en_us.json",
       "sha256": "606aaa760bbdab452c88a6060b658c8a2f22d27f7b7bdb8ae02e5af4631a243b",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/es_es.json",
       "sha256": "77d1c1ba2d046c4107da77a5c71bb4f4a2104e6be68cbfd3f7dab21f0aef6558",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/es_ve.json",
       "sha256": "24a72173ce51305204c9fad15c44c12d4d0950ab73300aeec26cbd5d12a50e1c",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json",
       "sha256": "5cc900fe1d69d4ea83e9921a55d87e299564640168bcc3a56d3a7253cb0d205e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json",
       "sha256": "843e10d26a04448cc21dce3f7ae09aa94d5d7948d6274d44287026ef905d7eca",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/he_il.json",
       "sha256": "5fb0c459310e54309f4910429c40e2583ccedaec61da2f3769210a428132338b",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/it_it.json",
       "sha256": "b6fe83c1d34c0dd7371166f990d3bfa792c5dff8738dbb0367117845a75f2c20",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/ms_my.json",
       "sha256": "9c063fa3a790e504553c8eafb37c7ef18ef6ae081d62a3e5ca3c572b88a29f61",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/pl_pl.json",
       "sha256": "b9a995e9dee5cd018e4d08906c7a6b79d5cc0d009b7d58ab02503bf0ebc690c0",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json",
       "sha256": "f2f5dd32c2b0c905fd9dbee03dccfab71ddc4df9cda7c39b93672d3df30579e6",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json",
       "sha256": "5f6dcfc48b119061105cbe76168e5ee11b0504a3f236b6485874b8a73271e5f7",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/uk_ua.json",
       "sha256": "be34a0fa7710209f151f89524339fef9f7fbc8328ffa0eb385e53ca57d5273f6",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/vi_vn.json",
       "sha256": "e353870c54a5876db06d7d65f10424b528f0fb95d436c02683be5641c931bfc9",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json",
       "sha256": "3b4adea635e93e0b5f749d8ef2c79dd2e81886b434bf95dd60bd7658a1469973",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json",
       "sha256": "cfb038a8583eeb5996fed030c80791cdfc960838075746b7288932b921a925e5",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/crash_assistant_localization_overrides/zlm_arab.json",
       "sha256": "3a4522c5494577ffd3fd9b6839cc89b98fef3f50c5897e1bf690aace9150fc16",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/crash_assistant/scripts/log_analysis/blame-mods.jexl",
       "sha256": "4b89d27895165c2bc7274d51a0614b7f73973cd2b77c4017372d5a7df69e2850",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/cwb.json",
       "sha256": "54be6316220b47d38e6cfcc4cc24da98e635fbe3ac9127bd30281ce7fa8cb686",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/debugify.json",
       "sha256": "5b79b0dd590f358142d30ac01571f58051c1649159ded7164fa1ec9535d77f62",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/dynamic_fps.json",
       "sha256": "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/e4mc/e4mc.toml",
       "sha256": "d3236414d0fd31bbc7d361a6b7e239685b7791ae4d2ff4fc554a9bed286a340e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/entityculling.json",
       "sha256": "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/entity_model_features.json",
       "sha256": "e0f8ab833d6b4625b6a0566ef2c1b6010368f05003508fc30f96aa5275690cd4",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/entity_texture_features.json",
       "sha256": "b796ea17ca7f7e21661d448dd834925d5627bd27894003549332da2ccd549344",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/etf_warnings.json",
       "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fabric_loader_dependencies.json",
       "sha256": "2a8e920c1af18a483a4bf85e4f9486c9d00cefea3eb1215de5bbd84beb9bb55a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/customizablemenus.txt",
       "sha256": "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/customization/title_screen_layout.txt",
       "sha256": "c6179df5d447f210e94fe87506b55f3d6d9c67375ea5de52951af41fb5dfb5ab",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/custom_gui_screens.txt",
       "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
       "sha256": "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/legacy_checklist.txt",
       "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/options.txt",
       "sha256": "cb7b399848e582ba70b64d75b2da7ffe89fea432a63da811f7bd3900f1fbd833",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/cherry_blossom.json",
       "sha256": "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/cozy_campfire.json",
       "sha256": "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/dark.json",
       "sha256": "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
       "sha256": "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/light.json",
       "sha256": "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/light_high_contrast.json",
       "sha256": "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
       "sha256": "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/purple_void.json",
       "sha256": "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/ui_themes/spooky_season.json",
       "sha256": "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fancymenu/user_variables.db",
       "sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/fastquit.toml",
       "sha256": "ec44be42be23a22b0162c081224af1cda056160f1955c07194e5e8c4c379631f",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/ferritecore.mixin.properties",
       "sha256": "71d5e19e278cb843d92f90a99b8a9772780c62e5611b7c8cc92097cd18399b08",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/forgeconfigapiport.toml",
       "sha256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/hardcoreinf/config.properties",
       "sha256": "93b9722ec90526ab33337129fa1aa70682689dcbb986e77abf2685f9ec1ccf54",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
+    },
+    {
+      "path": "config/hardcoreinf/final/mama_noel.zip",
+      "sha256": "df1c6b3f3ccc5feabfe594fd992c7fbc4d721b900c2f0cb94d3029556023033a",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/hardcoreinf/state.properties",
-      "sha256": "9f8891ccd1668e4505791201bdca85edb1191e3164325d29d68941657ebc540f",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "sha256": "293eb8b2c7ca252c683a61cefa0465ca055d5dbd013382b618cb32f4b824520f",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/immediatelyfast.json",
       "sha256": "351554b5d847acfb0dcdd05a93b5b93f27035178bcbde4d5193b4dc5a5a2f11b",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/iris-excluded.json",
       "sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/iris.properties",
-      "sha256": "1a152de7111d2854dc8ee64677a3d0ff50fec7eb253121dcd2d59c585d7d4581",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "sha256": "7d97d2aee5b4af2d050b3f4660ff158871dc523c691168174607e06b98cddade",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/isxander-main-menu-credits.json",
       "sha256": "5825788878e12e1ca8e3c92bcecd46375cbad922b962feb5adcbbc4aaa77a814",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/ixeris.toml",
       "sha256": "c02ede146ae967651ceafba4301bb814674e66ffcfdd078ab14ba251418a0434",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/lambdynlights.toml",
       "sha256": "11f23b08ea52883fcab67ac64cfea0a853d39f71da1d050a2a6e0a2447befb07",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/languagereload.json",
       "sha256": "a77950138e62eae829be375cdea010626527702df92ddee1f32e06a03a1b6a4a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/lithium.properties",
       "sha256": "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/midnightlib.json",
       "sha256": "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modernfix-mixins.properties",
       "sha256": "1bdc731ea299eabedbc39a20d81bbe5fdbc80b15765b15776795840d33a85b52",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modmenu.json",
       "sha256": "3f49d42a9970f250951d5610c6fcb860a181a426bd6cb4548bb75fe71de935ad",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/BBEConfig.json",
       "sha256": "e5f2ee57e9f9c0bd81af26c1918ceee988b3d726014c411f439406dc0fe60ef1",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/bettergrass.json",
       "sha256": "8aaf74864043e08741cc3c60f3ffe0d9aaf1fe757f111bb41064fb580d25bdf1",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/cape-provider/config.json",
       "sha256": "bfaed4a90f4b3b2ddb8fce57a7c4d9d2011a154c7f6bd8f005e79dff8ead6230",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/config.toml",
       "sha256": "259996eba4dcc6a2e56d5c9ef6169b2f1fb148345ad094a07ee850ee3c7aae77",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/be_by.json",
       "sha256": "db87c9322336f3ef307fee2ba2773bb4cda4fc91177efc83748463e5292870c3",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/en_us.json",
       "sha256": "1379dba87dafc27bb98363add32e5bb93ed9a1339b94eddf5b65b500d1d4e647",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/es_es.json",
       "sha256": "24a72173ce51305204c9fad15c44c12d4d0950ab73300aeec26cbd5d12a50e1c",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/es_ve.json",
       "sha256": "24a72173ce51305204c9fad15c44c12d4d0950ab73300aeec26cbd5d12a50e1c",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/et_ee.json",
       "sha256": "5cc900fe1d69d4ea83e9921a55d87e299564640168bcc3a56d3a7253cb0d205e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/fr_fr.json",
       "sha256": "843e10d26a04448cc21dce3f7ae09aa94d5d7948d6274d44287026ef905d7eca",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/he_il.json",
       "sha256": "5fb0c459310e54309f4910429c40e2583ccedaec61da2f3769210a428132338b",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/it_it.json",
       "sha256": "12d6de74be3cf88df4aff6fe8343a16b134808a71d62dd7460e50549cd5b97c5",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/ms_my.json",
       "sha256": "26efd27000fd0302d0cf727731c5da907712549df0f26a18848976e4f0902ff7",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/pl_pl.json",
       "sha256": "b9a995e9dee5cd018e4d08906c7a6b79d5cc0d009b7d58ab02503bf0ebc690c0",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json",
       "sha256": "f2f5dd32c2b0c905fd9dbee03dccfab71ddc4df9cda7c39b93672d3df30579e6",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json",
       "sha256": "ecfa56a3a4807ba8aaf70d50740b6bf1d398c0f40726685d5c16567f8f63246f",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/uk_ua.json",
       "sha256": "be34a0fa7710209f151f89524339fef9f7fbc8328ffa0eb385e53ca57d5273f6",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/vi_vn.json",
       "sha256": "e353870c54a5876db06d7d65f10424b528f0fb95d436c02683be5641c931bfc9",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/zh_cn.json",
       "sha256": "1565ef7d04cdca7e658838e761fe1a9bf32cbbbdb0e3fb780aaa9f0fcd4d2486",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/zh_tw.json",
       "sha256": "cfb038a8583eeb5996fed030c80791cdfc960838075746b7288932b921a925e5",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/zlm_arab.json",
       "sha256": "7fff33a34f353a359dffb40c742e3b7091e479f158383a18700704ac41d17f8e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/crash_assistant/scripts/log_analysis/blame-mods.jexl",
       "sha256": "4b89d27895165c2bc7274d51a0614b7f73973cd2b77c4017372d5a7df69e2850",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/cwb.json",
       "sha256": "54be6316220b47d38e6cfcc4cc24da98e635fbe3ac9127bd30281ce7fa8cb686",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/debugify.json",
       "sha256": "5b79b0dd590f358142d30ac01571f58051c1649159ded7164fa1ec9535d77f62",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/dynamic_fps.json",
       "sha256": "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/entity_texture_features.json",
       "sha256": "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/fabric_loader_dependencies.json",
       "sha256": "2a8e920c1af18a483a4bf85e4f9486c9d00cefea3eb1215de5bbd84beb9bb55a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/fastquit.toml",
       "sha256": "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/iris.properties",
       "sha256": "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/isxander-main-menu-credits.json",
       "sha256": "5825788878e12e1ca8e3c92bcecd46375cbad922b962feb5adcbbc4aaa77a814",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/lambdynlights.toml",
       "sha256": "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/midnightlib.json",
       "sha256": "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/modernfix-mixins.properties",
       "sha256": "d4a891a0843b77e3df10174e2377c790dc9908f9379b2dd2e3e0790e4344a265",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/modmenu.json",
       "sha256": "3f49d42a9970f250951d5610c6fcb860a181a426bd6cb4548bb75fe71de935ad",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/moreculling.toml",
       "sha256": "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/NoChatReports/NCR-Client.json",
       "sha256": "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/NoChatReports/NCR-Common.json",
       "sha256": "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/PaginatedAdvancements.json5",
       "sha256": "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/reeses_sodium_options.json",
       "sha256": "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/renice-shot.properties",
       "sha256": "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/rrls.toml",
       "sha256": "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/sodium-extra-options.json",
       "sha256": "cb0a666a09b7274b20f1266e5b47df5900625acdfb3b213a2d5ea82804cbc07f",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/config/sodium-shadowy-path-blocks-options.json",
       "sha256": "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/debug-profile.json",
       "sha256": "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/modpack_defaults/options.txt",
       "sha256": "bf066d869d460eef6cb6d0a725b50280c5398f7f4cb5c98b76c5214e57a57bdd",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/moreculling.toml",
       "sha256": "a0b2444db1aa65997fd715d0c2a7753f5be302d1304364993260fb7489c1eddb",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/NoChatReports/NCR-Client.json",
       "sha256": "e1ef79c2827deb3971b388c2bd63c183ac03ac327c91a4e28b7af96c69c472db",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/NoChatReports/NCR-Common.json",
       "sha256": "77777d6d4901caa3b49847bde37722ee3cf81d745cfc2e8ffdd2aca6211418e8",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/NoChatReports/NCR-ServerPreferences.json",
       "sha256": "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/NoChatReports/README.md",
       "sha256": "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/notenoughanimations.json",
       "sha256": "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/PaginatedAdvancements.json5",
       "sha256": "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/pickupnotifications.toml",
-      "sha256": "5b2f28812337a2c2f6f078acdb304da5bbdb5b6eea55c97ce10f97707ecc3ee8",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "sha256": "96b6977562608e564c6469a2bd7d501ae8ad46d3d6c31b92d766235d27ab2f2d",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/puzzle.json",
       "sha256": "27e001f09b0f5b7916a8b984b97c1bc1ba023ecb5b2a5f7a272e8ee7bab3b079",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/reeses_sodium_options.json",
       "sha256": "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/renice-shot.properties",
       "sha256": "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/rrls.toml",
       "sha256": "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/skyboxify.json",
       "sha256": "c032efa00c2fdfd23000881733881e19e7c40374bd86c7ebdb1b1d0d4edd7c41",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/sodium-extra-options.json",
       "sha256": "38f8aa9a8edda4e828ac05f10f70bf827849b4e45b9e371cfe5415e3a5439e6d",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/sodium-extra.properties",
       "sha256": "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/sodium-fingerprint.json",
       "sha256": "722f04a82f92e063304d2018e881917bd8ca9b4b427b38ecc31a65369ea62d18",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/sodium-mixins.properties",
       "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/sodium-options.json",
       "sha256": "7d98966fef8784202c6acfcdf47d47c2b4bc1aaea006661120f3b5b10331ee94",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/sodium-shadowy-path-blocks-options.json",
       "sha256": "71c8d050837ca80f08b33231ffaf25907fe88536015fddcfac4099a0467fff63",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/transition.json",
       "sha256": "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/trender.json",
       "sha256": "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/vmp.properties",
-      "sha256": "e48d83016b6c081ae031cd0ed51991a93f5b2923521cdb2cc426816f214b5d8d",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "sha256": "3bd27d08bc5a80f3d4feca766e2bce24c437656362914cbbf33c4db2b6d1a02d",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/yacl.json5",
       "sha256": "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "config/zoomify.json",
       "sha256": "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "resourcepacks/Chat Reporting Helper.zip",
       "sha256": "11c6e2fb728cd269eadfb5663b28de8d9849e633de7792ea1d44e870782ba6a8",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.11.1_26.1+.zip",
+      "sha256": "f9c2f58eb4cc109b7055d9d0da163269caf61af816538e71ed4f1ea97607372e",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
+    },
+    {
+      "path": "resourcepacks/LowOnFire v26.2§8.zip",
+      "sha256": "25fc89fedc6d47fe2480a60910c65c8fd8b50121aaab919933e47cc6ba730a67",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "resourcepacks/Mod Menu Helper.zip",
       "sha256": "65179e99890d4ae5a8f1abf47facf9125daf98a160b8b70a32b583f916badf9a",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "resourcepacks/SodiumTranslations.zip",
       "sha256": "e55492cbee5839dedd829dd938cc77dc6cd18668961457595c7842cea896379d",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
+    },
+    {
+      "path": "resourcepacks/[1.6] Enhanced Boss Bars.zip",
+      "sha256": "91fff02fa7924642011f8aeb45623a3fedcbe7fdfda28079eb59430fb7cc58f9",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "data/fabric_default_resource_packs.json",
       "sha256": "8138e5e9bb95f27b029fa5e119d99c2e9a6b7f44c8a07faada29f295b76297d3",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "fancymenu_data/buddy/buddy_leveling_NDk5ZTZhNDUtNDBkMS00NDAxLWEwMjUtNTg5NWIzYjhiYTJlLTE3OTI0NTQ5NDA5NDE.json",
       "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "fancymenu_data/buddy/buddy_leveling_YWZjYjdlMzgtNDQyOS00ZjlhLTkyYzMtNDY2OTE5NGM1YmE1LTE3OTI0NTQ5MzQxNDE.json",
       "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "fancymenu_data/buddy/buddy_save_NDk5ZTZhNDUtNDBkMS00NDAxLWEwMjUtNTg5NWIzYjhiYTJlLTE3OTI0NTQ5NDA5NDE.json",
       "sha256": "358d0bfeaa7416a29c0b1d9d80471d9c1f2b55ffcc5d521ee8db10e1595c417e",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "fancymenu_data/buddy/buddy_save_YWZjYjdlMzgtNDQyOS00ZjlhLTkyYzMtNDY2OTE5NGM1YmE1LTE3OTI0NTQ5MzQxNDE.json",
       "sha256": "61169e2097b66221da94ecda13db7faf9308b0d7833977d2783d018c7b4ff317",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "fancymenu_data/last_world.fmdata",
-      "sha256": "96fda481dedcec821bee21b58d043325846a81aef9e296fccc8c2d35a20248fb",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "sha256": "9fa21c2a45f7a9e56255aaa2118335dc22bcf1fd6a5687fde33d976181602f74",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     },
     {
       "path": "fport1-defaults/options.txt",
-      "sha256": "25a5ac936daa59bf36a6c9616d57faca63ff3163122c436ab6be0172a9850537",
-      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.1/files.zip"
+      "sha256": "75f1a2eee9c9cc8e354a6d4e6156186b7b03a1b124691dd2e4d44de8965c90db",
+      "url": "https://github.com/Fport1/hardcore-re-263/releases/download/v1.0.3/files.zip"
     }
   ],
   "thumbnail": "https://raw.githubusercontent.com/Fport1/hardcore-re-263/main/thumbnail.png"
